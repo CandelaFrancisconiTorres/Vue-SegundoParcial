@@ -8,11 +8,11 @@
 
 ## Descripción del proyecto
 
-Gamefy es una aplicación web desarrollada con Vue 3 que simula una tienda de videojuegos. Permite explorar un catálogo de juegos, buscarlos, filtrarlos, agregarlos a un carrito de compras y realizar un formulario de contacto. La aplicación no cuenta con backend; los datos están definidos localmente y el carrito se persiste mediante LocalStorage.
+Gamefy es una aplicación web desarrollada con Vue 3/ 4 que simula una tienda de videojuegos. Permite explorar un catálogo de juegos, buscarlos, filtrarlos, agregarlos a un carrito de compras y realizar un formulario de contacto. La aplicación no cuenta con backend; los datos están definidos localmente y el carrito se persiste mediante LocalStorage.
 
 ## Tecnologías utilizadas
 
-- Vue 3
+- Vue 3 / 4
 - Vite
 - Vue Router
 - JavaScript
@@ -54,4 +54,4 @@ public/             imágenes de los juegos y archivos estáticos servidos direc
 
 ## Ejecución
 
-La aplicación se ejecuta en entorno de desarrollo con Vite. Una vez iniciada, estará disponible en `http://localhost:5173`. No requiere configuración adicional ni conexión a un servidor externo.
+La aplicación se ejecuta en entorno de desarrollo con Vite, utilizando "npm run dev". Una vez iniciada, estará disponible en 'http://localhost:5173'. No requiere configuración adicional ni conexión a un servidor externo.
